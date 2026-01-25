@@ -15,7 +15,7 @@
 
   <br />
   
-  [Live Demo](https://solidjs-threejs-gsap-dimensional-glass-landing.netlify.app)
+  [Live Demo](https://solidjs-threejs-gsap-dimensional-glas.netlify.app)
 
 </div>
 
